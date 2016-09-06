@@ -12,7 +12,7 @@ A list of awesome resourses for Digital Nomads
 
 - [Resourses](#resourses)
 	- [Travel] (#travel)
-	- [Flight search engines] (#flight-search-engines)
+		- [Flight search engines] (#flight-search-engines)
 - [Communities(#communities)
 
 ## Resourses
@@ -27,6 +27,7 @@ http://airixo.com/en
 http://www.hopper.com/tools
 http://www.azair.com
 http://matrix.itasoftware.com
+http://azuon.com/en/sign-up
 
 
 #### Route search enginges
@@ -38,7 +39,6 @@ http://www.falk.de/
 https://github.com/jessicard/remote-jobs
 http://stackoverflow.com/jobs?allowsremote=true
 https://remoteok.io
-http://azuon.com/en/sign-up
 
 http://www.remoteyear.com
 http://www.remotetrotters.com
@@ -48,13 +48,17 @@ https://twitter.com/hackerparadise
 http://www.theoverseasescape.com
 
 
-
+http://nomadlist.com
 
 
 #### Another lists
 http://totalism.org/alike
 
+#### Communities
+https://join.nomadlist.com
 
+#### Events
+http://www.dnxglobal.com
 
 #### Incorporation
 
@@ -138,6 +142,10 @@ http://www.ezycourier.com/en/
 #### Virtual mailboxes
 https://www.earthclassmail.com/
 https://travelingmailbox.com/
+https://www.clevvermail.com
+https://www.usglobalmail.com
+https://www.deutscheskonto.org/en/eburo-post-address-germany/
+
 
 http://nodesk.co
 https://nomadhouse.io
@@ -154,16 +162,62 @@ http://www.syndikat.org/en/
 http://kraftwerk1.ch
 
 
-####Another nomads
+#### Nomads in Person
+Just add yourself in the issues or open a pull request
+https://www.travelicia.de
 http://westfaliadigitalnomads.com
 http://rvwanderlust.com
 http://digitalnomadrv.com
 
 
+http://www.thecoloursofwater.com
+http://www.nomadcruise.com/
+http://www.tribewanted.com
+https://refuga.com/
+http://kohub.org
+http://www.hubud.org/
+http://www.poc21.cc/
+http://coliving.org
+
+
+
+http://founder.house/
+http://www.escapethecity.org
+https://jobbatical.com
+http://www.howtodigitalnomad.com
+http://thecoalition.io/berlin
+http://www.roof-up.com/en/location/
+http://camps.copass.org/lemnos2016/
+http://hackerdome.xyz
+https://liquidspace.com
+https://www.sharedesk.net
+http://epicyogatrip.com
+https://www.roam.co
+https://www.backpackerdeals.com
+http://berlin.mindspace.me
+https://nomadtrips.co/
+http://homeonthehighway.com/
+
+http://darbavieta.rocks/en/
+http://raumlabor.net/city/
+
+https://workfrom.co
+http://www.wwoof.net/
+http://www.millriga.com
+http://www.remoteyear.com
+http://www.coastalyfe.com
+
+http://www.digiquarters.com
 
 
 https://nomadhouse.io/spaces
+
+
+##Coliving
+https://embassynetwork.com
 http://coliving.org
+
+
 https://www.roam.co
 http://outsite.co/membership
 http://thriftynomads.com/rv-relocation-deals/
@@ -182,3 +236,4 @@ http://remoters.net/coworking-sail/
 ####Global projects
 https://freestateproject.org
 https://liberland.org/en/main/
+http://unmonastery.org/
