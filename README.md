@@ -45,6 +45,35 @@ http://www.remotetrotters.com
 http://www.coworktheworld.com
 https://www.coworker.com
 
+#### Coworking
+http://www.sun-desk.com Taghazout, Morocco
+https://www.roam.co Bali, Miami, Madrid
+https://nomadhouse.io/spaces
+
+
+#### Coliving
+https://colive.co General search
+http://outsite.co USA
+http://www.startupbasecamp.org SF, Monthreal, Brussels
+https://www.thesurfoffice.com Lisbon, Gran Canaria
+https://www.thecollective.co.uk London
+http://www.20mission.com SF, Medellin
+https://www.welive.com NYC, WC
+http://hus24.org Sweden
+http://www.coliving.club SF
+http://www.nomadpad.org Austin, USA
+https://www.hicommon.com NY
+http://www.bedndesk.com Mallorca
+http://base.life Melbourne, Australia
+http://www.coworkinginthesun.com Tenerife
+http://coconat-space.com Berlin
+http://playworking.me Montenegro
+http://sende.co Senderiz, Spain
+http://hubfuerteventura.co Canary Iselands
+http://phuketstash.com Phuket
+http://sun-and-co.com Javea, Spain
+
+
 http://www.hackerparadise.org
 https://twitter.com/hackerparadise
 http://www.theoverseasescape.com
