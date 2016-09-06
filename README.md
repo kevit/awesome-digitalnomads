@@ -40,15 +40,13 @@ https://github.com/jessicard/remote-jobs
 http://stackoverflow.com/jobs?allowsremote=true
 https://remoteok.io
 
-http://www.remoteyear.com
-http://www.remotetrotters.com
-http://www.coworktheworld.com
-https://www.coworker.com
 
 #### Coworking
 http://www.sun-desk.com Taghazout, Morocco
 https://www.roam.co Bali, Miami, Madrid
 https://nomadhouse.io/spaces
+https://www.coworker.com Aggregation
+http://www.coworktheworld.com Aggregation
 
 
 #### Coliving
@@ -178,25 +176,35 @@ http://www.coliving.club
 https://www.thecollective.co.uk
 https://founder.house
 
-
+#### Retreats
+http://www.remoteyear.com
 http://www.hackerparadise.org
 https://startupretreats.com
 http://outsite.co
+http://southwestcollective.co
+http://www.therepose.org
+http://exosphe.re
+http://www.thrillingheroics.com/mastermind/
+http://www.alptitu.de/#intro
+http://www.coboat.org
+http://www.yonderwork.com
+http://www.projectgetaway.com
+http://beunsettled.co
+http://www.sunny-office.com
+http://www.coworkparadise.com
+http://www.nomadcruise.com
+http://www.dnxcamp.com
 http://www.thebluehouse.io/#startup-getaway-morocco
 https://www.roam.co/about
 https://www.welive.com
 http://www.thresholdcentre.org.uk
-
-http://www.remoteyear.com
-http://www.remotetrotters.com
-http://www.coworktheworld.com
-http://www.hackerparadise.org
-https://twitter.com/hackerparadise
+http://www.remotetrotters.com Looks inactive
 
 
 #### Virtual mailboxes
 https://www.earthclassmail.com/
 https://travelingmailbox.com/
+http://www.mailaletter.com
 https://www.clevvermail.com
 https://www.usglobalmail.com
 https://www.deutscheskonto.org/en/eburo-post-address-germany/
