@@ -43,12 +43,16 @@ https://remoteok.io
 http://www.remoteyear.com
 http://www.remotetrotters.com
 http://www.coworktheworld.com
+https://www.coworker.com
+
 http://www.hackerparadise.org
 https://twitter.com/hackerparadise
 http://www.theoverseasescape.com
 
 
-http://nomadlist.com
+#### Choosing a place
+- [Rating of most friendly cities](http://nomadlist.com)
+- [Check cost of life](http://www.numbeo.com)
 
 
 #### Another lists
@@ -137,6 +141,28 @@ http://www.bistip.com/
 http://www.stuff2send.com/
 http://www.sociotransit.com/
 http://www.ezycourier.com/en/
+http://www.piggybee.com/en/
+http://www.hitchit.co
+
+https://www.hicommon.com
+http://www.coliving.club
+https://www.thecollective.co.uk
+https://founder.house
+
+
+http://www.hackerparadise.org
+https://startupretreats.com
+http://outsite.co
+http://www.thebluehouse.io/#startup-getaway-morocco
+https://www.roam.co/about
+https://www.welive.com
+http://www.thresholdcentre.org.uk
+
+http://www.remoteyear.com
+http://www.remotetrotters.com
+http://www.coworktheworld.com
+http://www.hackerparadise.org
+https://twitter.com/hackerparadise
 
 
 #### Virtual mailboxes
@@ -237,3 +263,40 @@ http://remoters.net/coworking-sail/
 https://freestateproject.org
 https://liberland.org/en/main/
 http://unmonastery.org/
+
+
+#### Nomad topics 
+https://www.reddit.com/r/digitalnomad/
+http://www.quora.com/Digital-Nomads
+https://plus.google.com/communities/103890915396249864463
+
+
+http://www.atnomads.com
+
+http://hashtagnomads.com 50USD
+http://www.nomadwiki.net
+http://www.webworktravel.com
+http://about.dynamitecircle.com/tmba/
+https://nomadhouse.io - need to register
+http://www.thesurfoffice.com 
+http://www.hackerparadise.org
+http://www.thecaravanserai.co/scout
+https://copass.org
+http://tribewanted.com - different view of
+https://nomadforum.io
+http://nodesk.co/
+https://www.eventbrite.com
+http://findanomad.com
+http://startupretreats.com
+http://findanomad.com
+https://flyingyak.com
+https://plus.google.com/communities/103890915396249864463
+http://nomadtogether.com
+http://www.nomadsummit.com
+http://speaknomad.com
+https://www.worldpackers.com
+https://gigrove.com/for-local-hosts/
+http://www.travelistly.com
+http://tickets.coboat.org
+http://www.coliving.club
+http://www.rainbowmansion.com
